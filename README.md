@@ -45,8 +45,7 @@ Visual insights
 Deep learning model
 Employee attrition prediction
 Streamlit dashboard
+
 author
 kakade sakshi somnath
 
-Your Name
-kakade sakshi somnath
